@@ -1,1 +1,1 @@
-# ajax
+# ajax-rest
